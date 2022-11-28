@@ -14,7 +14,8 @@ Nessa disciplina, irei aprender mais sobre:
 1. Princípios para bons projetos
 2. Diagrama de Classes
 
-Links ùteis
+Links úteis
 
-[Campus Virtual](https://campusvirtual.ufla.br)
-[UFLA](https://www.ufla.br)
+* [Campus Virtual](https://campusvirtual.ufla.br)
+* [UFLA](https://www.ufla.br)
+
