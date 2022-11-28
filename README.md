@@ -19,3 +19,5 @@ Links úteis
 * [Campus Virtual](https://campusvirtual.ufla.br)
 * [UFLA](https://www.ufla.br)
 
+![Platão](platao.jpeg)
+
